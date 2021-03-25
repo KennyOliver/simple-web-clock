@@ -12,6 +12,8 @@
 ## neumorphia.css :art: :package:
 **simple-web-clock** uses **neumorphia.css** - my own CSS library!
 
+<img src="https://user-images.githubusercontent.com/70860732/112530303-3183c300-8d9e-11eb-98d3-5e7b6d7b5a00.jpeg" align="center" width="50%">
+
 [![neumorphia.css](https://img.shields.io/badge/Get%20neumorphia.css-252525?style=for-the-badge&logo=css3&logoColor=white&link=https://kennyoliver.github.io/neumorphia.css/neumorphia.css)](https://kennyoliver.github.io/neumorphia.css/neumorphia.css)
 
 ---
