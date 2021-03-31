@@ -15,7 +15,7 @@
 ## neumorphia.css :art: :package:
 **simple-web-clock** uses **neumorphia.css** – my own CSS framework!
 
-[![neumorphia.css](https://img.shields.io/badge/Get%20neumorphia.css-252525?style=for-the-badge&logo=css3&logoColor=white&link=https://kennyoliver.github.io/neumorphia.css/neumorphia.css)](https://kennyoliver.github.io/neumorphia.css/neumorphia.css)
+[![neumorphia.css](https://img.shields.io/badge/Get%20neumorphia.css-75D2AF?style=for-the-badge&logo=css3&logoColor=252525&link=https://kennyoliver.github.io/neumorphia.css/neumorphia.css)](https://kennyoliver.github.io/neumorphia.css/neumorphia.css)
 
 ---
 Kenny Oliver ©2021
