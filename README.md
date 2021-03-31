@@ -13,7 +13,7 @@
 [![Website Link](https://img.shields.io/badge/See%20It%20In%20Action-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io/simple-web-clock/)](https://kennyoliver.github.io/simple-web-clock/)
 
 ## neumorphia.css :art: :package:
-**simple-web-clock** uses **neumorphia.css** - my own CSS library!
+**simple-web-clock** uses **neumorphia.css** – my own CSS framework!
 
 [![neumorphia.css](https://img.shields.io/badge/Get%20neumorphia.css-252525?style=for-the-badge&logo=css3&logoColor=white&link=https://kennyoliver.github.io/neumorphia.css/neumorphia.css)](https://kennyoliver.github.io/neumorphia.css/neumorphia.css)
 
