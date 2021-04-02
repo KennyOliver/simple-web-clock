@@ -10,7 +10,7 @@
 
 **A very simple clock website — my first JS project!**
 
-[![Website Link](https://img.shields.io/badge/See%20It%20In%20Action-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io/simple-web-clock/)](https://kennyoliver.github.io/simple-web-clock/)
+[![Website Link](https://img.shields.io/badge/See%20Demo-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io/simple-web-clock/)](https://kennyoliver.github.io/simple-web-clock/)
 
 ## neumorphia.css :art: :package:
 **simple-web-clock** uses **[neumorphia.css](https://github.com/KennyOliver/neumorphia.css)** – my own CSS framework!
